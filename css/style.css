@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #000000;
-    background-image: url("/css/img/Tec.jpeg"); 
+    background-image: url("img/Tec.jpeg"); 
     color: #fff;
     text-shadow: #111 0px 0px 10px;
 
